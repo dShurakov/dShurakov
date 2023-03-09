@@ -19,7 +19,7 @@ here is Shurakov Denis 🖐️
 
 💻 I spent the last year learning Java until I realized that I would like to make a living from this, as this is really what I like.
 
-👨‍🎓 Now I'm studying Java Spring and Spring Boot at Yandex.Practice courses. Projects from there can be found in my profile.
+👨‍🎓 Now I'm studying Java Spring and Spring Boot at *****.***** courses. Projects from there can be found in my profile.
 
 ❤️ I try to write a lot of code and read more books 📚 and watch conferences of other developers.
 
